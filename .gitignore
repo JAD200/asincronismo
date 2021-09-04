@@ -1,2 +1,5 @@
 # Paquetes json
 *.json
+
+#Node modules
+node_modules/*
